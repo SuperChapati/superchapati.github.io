@@ -1,0 +1,59 @@
+.theme{
+
+    background-color: black;
+    text-align: center;
+}
+
+.title{
+
+    color: red;
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+text-shadow: 5px 5px yellow;
+}
+
+.info{
+    color: greenyellow;
+}
+
+.navbar{
+    color: orange;
+    font-size: 30px
+}
+
+.cont{
+    color: lightblue;
+    font-size: 30px
+}
+
+.abo{
+    color: green;
+    font-size: 30px
+}
+.message{
+    color: yellow
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 19px 21px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: blue;
+}
